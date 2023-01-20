@@ -1,8 +1,8 @@
-● 👋 Hey, my name is Miroslav "insoomnia" K. 
-● 🏫 I'm currently learning LUA.
-● 🤤 I'm eager to learn new things.
-● ⌨️ I'm currently "developer" on my project called 100Lives
-● 👑 At the moment I am owner of czech starting server > 100Lives
+- 👋 Hey, my name is Miroslav "insoomnia" K. 
+- 🏫 I'm currently learning LUA.
+- 🤤 I'm eager to learn new things.
+- ⌨️ I'm currently "developer" on my project called 100Lives
+- 👑 At the moment I am owner of czech starting server > 100Lives
 
 ######My statistics:
 <picture>
