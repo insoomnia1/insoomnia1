@@ -4,7 +4,7 @@
 - ⌨️ I'm currently "developer" on my project called 100Lives
 - 👑 At the moment I am owner of czech starting server > 100Lives
 
-######My statistics
+**My statistics**:
 
 <picture>
 <source 
