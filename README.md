@@ -4,7 +4,8 @@
 - ⌨️ I'm currently "developer" on my project called 100Lives
 - 👑 At the moment I am owner of czech starting server > 100Lives
 
-######My statistics:
+######My statistics
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=insoomnia1&show_icons=true&theme=dark"
