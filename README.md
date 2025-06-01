@@ -1,7 +1,6 @@
 - 👋 Hey, my name is Miroslav "insoomnia" K. 
 - 🏫 I'm currently learning LUA & HTML /w CSS
 - 🤤 I'm eager to learn new things.
-- ⌨️ I'm currently "developer" on my project called LINERP.
 
 **My statistics**:
 
